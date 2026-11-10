@@ -1,0 +1,121 @@
+date,route,load_port,discharge_port,cargo,vessel,quantity_mt,rate_usd_mt
+2026-01-05,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,3900,18.63
+2026-01-07,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,4800,15.15
+2026-01-08,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV TEST GLORY,7800,22.36
+2026-01-08,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,4600,20.24
+2026-01-14,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV DEMO STAR,5500,15.36
+2026-01-18,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,19700,12.98
+2026-01-18,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,4100,17.39
+2026-01-20,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE TWO,4900,16.22
+2026-01-21,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,5100,17.91
+2026-01-25,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,14900,13.0
+2026-01-25,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE TWO,5800,17.95
+2026-01-27,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,4100,14.65
+2026-01-28,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV TEST GLORY,10000,25.04
+2026-01-31,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,5300,14.72
+2026-02-01,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE ONE,6300,17.88
+2026-02-02,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE ONE,11600,23.79
+2026-02-03,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,13100,12.12
+2026-02-06,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,4400,15.66
+2026-02-06,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,5400,20.17
+2026-02-09,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,10100,13.72
+2026-02-10,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,16800,13.91
+2026-02-11,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,4600,14.47
+2026-02-12,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,2200,14.68
+2026-02-15,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE ONE,9900,22.57
+2026-02-26,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,17700,13.09
+2026-02-26,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV TEST GLORY,5500,20.95
+2026-02-28,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,12500,12.72
+2026-03-01,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,6600,26.19
+2026-03-01,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,3900,14.17
+2026-03-02,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,11500,26.94
+2026-03-03,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV DEMO STAR,5000,17.0
+2026-03-08,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,3900,15.5
+2026-03-16,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,9500,14.72
+2026-03-17,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,3100,14.89
+2026-03-21,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,2200,14.42
+2026-03-22,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,14000,14.23
+2026-03-26,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,5000,16.13
+2026-03-28,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,17800,13.51
+2026-03-29,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,3900,21.71
+2026-03-29,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,3100,16.47
+2026-03-30,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,3600,14.3
+2026-04-08,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV DEMO STAR,6100,18.25
+2026-04-13,Busan-Osaka,Busan,Osaka,Section steel,MV DEMO STAR,3100,16.9
+2026-04-22,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE TWO,5800,22.64
+2026-04-24,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,10800,15.17
+2026-04-25,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,3400,21.52
+2026-04-27,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE ONE,3500,17.88
+2026-05-01,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,4000,24.79
+2026-05-05,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,4300,15.66
+2026-05-05,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE TWO,3800,21.47
+2026-05-06,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,8400,25.88
+2026-05-08,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,9400,16.11
+2026-05-18,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,5300,26.36
+2026-05-19,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,16300,16.67
+2026-05-20,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,5600,30.77
+2026-05-20,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,12100,16.65
+2026-05-22,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE TWO,7600,21.29
+2026-05-26,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,18300,14.6
+2026-05-27,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV TEST GLORY,5800,25.32
+2026-05-30,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,9500,16.38
+2026-06-06,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,10500,11.6
+2026-06-07,Busan-Osaka,Busan,Osaka,Section steel,MV DEMO STAR,2300,11.5
+2026-06-07,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE TWO,5200,14.12
+2026-06-07,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,18900,11.68
+2026-06-08,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,18900,12.65
+2026-06-14,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,8200,20.47
+2026-06-15,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV TEST GLORY,8200,23.8
+2026-06-17,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE ONE,10300,11.07
+2026-06-23,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,18900,12.73
+2026-06-23,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,14800,10.86
+2026-06-24,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,6300,23.17
+2026-06-24,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,3100,11.88
+2026-07-05,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,3900,14.48
+2026-07-07,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,3200,19.77
+2026-07-09,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,19500,11.52
+2026-07-13,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE TWO,4800,20.16
+2026-07-15,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,2500,12.82
+2026-07-18,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV TEST GLORY,5600,20.16
+2026-07-18,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,8300,23.62
+2026-07-20,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,3000,12.55
+2026-07-20,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,5500,23.0
+2026-07-30,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE TWO,3800,18.6
+2026-07-31,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV TEST GLORY,6000,25.65
+2026-08-01,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE ONE,5800,25.49
+2026-08-07,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV SAMPLE TWO,16000,12.55
+2026-08-08,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,4400,13.91
+2026-08-09,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,10800,23.77
+2026-08-15,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,4800,20.37
+2026-08-16,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,3600,13.78
+2026-08-18,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV DEMO STAR,4900,16.32
+2026-08-25,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV TEST GLORY,5900,21.77
+2026-08-25,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,4600,19.07
+2026-08-27,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,6100,23.45
+2026-08-28,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,3900,18.84
+2026-09-05,Busan-Osaka,Busan,Osaka,Section steel,MV DEMO STAR,3000,16.02
+2026-09-10,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV SAMPLE TWO,10900,28.26
+2026-09-10,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,3600,16.21
+2026-09-20,Busan-Osaka,Busan,Osaka,Section steel,MV TEST GLORY,2700,15.73
+2026-09-23,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,7700,16.88
+2026-09-27,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,4300,14.25
+2026-10-02,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,5800,23.02
+2026-10-05,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,7800,19.14
+2026-10-06,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV TEST GLORY,3600,19.1
+2026-10-06,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV DEMO STAR,3500,21.14
+2026-10-06,Incheon-Kaohsiung,Incheon,Kaohsiung,Rebar,MV SAMPLE ONE,3500,23.71
+2026-10-07,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,8500,24.95
+2026-10-08,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE ONE,4900,17.64
+2026-10-11,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,3800,16.03
+2026-10-13,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,9300,29.33
+2026-10-14,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE ONE,2500,14.41
+2026-10-16,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,2800,15.11
+2026-10-17,Dangjin-Ho Chi Minh,Dangjin,Ho Chi Minh,Steel plate,MV DEMO STAR,11900,28.76
+2026-10-18,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,15300,15.03
+2026-10-19,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,17600,14.49
+2026-10-20,Pohang-Shanghai,Pohang,Shanghai,Steel coil,MV SAMPLE ONE,7400,17.82
+2026-10-21,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,12300,13.83
+2026-10-24,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV TEST GLORY,12000,15.54
+2026-10-28,Qingdao-Pohang,Qingdao,Pohang,Scrap,MV DEMO STAR,15600,14.53
+2026-10-30,Busan-Osaka,Busan,Osaka,Section steel,MV DEMO STAR,2900,17.32
+2026-10-31,Busan-Osaka,Busan,Osaka,Section steel,MV SAMPLE TWO,2200,17.2
